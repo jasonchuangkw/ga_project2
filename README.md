@@ -77,7 +77,7 @@ Please refer to ([*eda.ipynb*](./eda.ipynb')) for the Exploratory Data Analysis 
 
 ## Summary of Findings
 
-1. Neighbourhood
+1. Neighbourhood<br/>
 You don't live alone, therefore the environment within the neighbourhood is important. Property in Green Hill could easily command $128,800 more than other areas. Other areas like Northridge, Stone Brook, Somerset, Northwest Ames and Briardale also commanded premium. The less desired neighbourhoods were Edwards and Northridge Heights.
 
 2. Overall Condition and Quality
