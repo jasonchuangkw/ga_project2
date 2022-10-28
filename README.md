@@ -72,7 +72,7 @@ Ames Iowa Housing dataset from Kaggle ([*source*](https://www.kaggle.com/competi
 
 ## Analysis
 
-Please refer to eda.ipynb for the Exploratory Data Analysis([*source*](./eda.ipynb')) and regression.ipynb for the Regression Analysis ([*source*](./regression.ipynb'))
+Please refer to ([*eda.ipynb*](./eda.ipynb')) for the Exploratory Data Analysis and ([*regression.ipynb*](./regression.ipynb'))regression.ipynb for the Regression Analysis.
 
 
 ## Summary of Findings
