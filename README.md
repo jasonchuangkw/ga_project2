@@ -22,7 +22,7 @@ Ames Iowa Housing dataset from Kaggle ([*source*](https://www.kaggle.com/competi
 ## Data Dictionary (By Alphabetical Order)
 
 |Variable|Type|Description|Impact of Variable|Coefficient|
-|:---|:---|:---|:---|:---|
+|:---|:---|:---|:---|---:|
 |Bldg Type_Duplex|Categorical|Type of dwelling|Negative|-4,109.03|
 |Bsmt Unf SF|Numeric|Unfinished square feet of basement area|Negative|-10.56|
 |BsmtFin Type 1_LwQ|Categorical|Quality of basement finished area (Low)|Negative|-14,780.00|
