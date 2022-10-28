@@ -77,10 +77,10 @@ Please refer to ([*eda.ipynb*](./eda.ipynb')) for the Exploratory Data Analysis 
 
 ## Summary of Findings
 
-1. Neighbourhood<br/>
+1. <b>Neighbourhood</b><br/>
 You don't live alone, therefore the environment within the neighbourhood is important. Property in Green Hill could easily command $128,800 more than other areas. Other areas like Northridge, Stone Brook, Somerset, Northwest Ames and Briardale also commanded premium. The less desired neighbourhoods were Edwards and Northridge Heights.
 
-2. Overall Condition and Quality
+2. Overall Condition and Quality<br/>
 It goes without saying that the quality of the house is an important factor. To have an objective assessment on the condition and quality, this would be best to be done by an expert. The better the condition and quality, the higher will be the cost. However, just an important note, the higher quality of the house might command a smaller increase in price. A mid-range quality would be the most value for money. Older houses would more likely to have poorer conditions but with proper upkeeping and maintenance, it could sell very well.
 
 3. living area square feet
