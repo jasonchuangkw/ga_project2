@@ -70,6 +70,10 @@ Ames Iowa Housing dataset from Kaggle ([*source*](https://www.kaggle.com/competi
 |Sale Type_Con|Categorical|Type of sale (Contract 15% Down payment regular terms)|Positive|42,320.00|
 |Sale Type_New|Categorical|Type of sale (Home just constructed and sold)|Positive|28,380.00|
 
+## Analysis
+
+Please refer to eda.ipynb for the Exploratory Data Analysis([*source*](./eda.ipynb')) and regression.ipynb for the Regression Analysis ([*source*](./regression.ipynb'))
+
 
 ## Summary of Findings
 
