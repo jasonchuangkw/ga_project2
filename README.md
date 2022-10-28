@@ -72,7 +72,7 @@ Ames Iowa Housing dataset from Kaggle ([*source*](https://www.kaggle.com/competi
 
 ## Analysis
 
-Please refer to ([*eda.ipynb*](./eda.ipynb')) for the Exploratory Data Analysis and ([*regression.ipynb*](./regression.ipynb'))regression.ipynb for the Regression Analysis.
+Please refer to ([*eda.ipynb*](./eda.ipynb')) for the Exploratory Data Analysis and ([*regression.ipynb*](./regression.ipynb')) regression.ipynb for the Regression Analysis.
 
 
 ## Summary of Findings
@@ -108,5 +108,3 @@ There are other factors such as the roof style & material, and general shape of 
 Based on the findings, we concluded the 7 key areas to pay attention to for potential home owners looking for properties in Ames.
 
 It is highly recommended to start thinking which neighbour and buiding class is prefered as these would set the price range to consider. The size of the living area, the overall condition and quality could be considered thereafter. The basement is quite a tricky part of the house, so it is important to pay attention to it. 
-
-
