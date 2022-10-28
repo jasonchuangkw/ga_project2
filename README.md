@@ -80,25 +80,25 @@ Please refer to ([*eda.ipynb*](./eda.ipynb')) for the Exploratory Data Analysis 
 1. <b>Neighbourhood</b><br/>
 You don't live alone, therefore the environment within the neighbourhood is important. Property in Green Hill could easily command $128,800 more than other areas. Other areas like Northridge, Stone Brook, Somerset, Northwest Ames and Briardale also commanded premium. The less desired neighbourhoods were Edwards and Northridge Heights.
 
-2. Overall Condition and Quality<br/>
+2. <b>Overall Condition and Quality</b><br/>
 It goes without saying that the quality of the house is an important factor. To have an objective assessment on the condition and quality, this would be best to be done by an expert. The better the condition and quality, the higher will be the cost. However, just an important note, the higher quality of the house might command a smaller increase in price. A mid-range quality would be the most value for money. Older houses would more likely to have poorer conditions but with proper upkeeping and maintenance, it could sell very well.
 
-3. living area square feet
+3. <b>living area square feet</b></br>
 A bigger certain would cost more. A safe benchmark would be about $71.92 per square feet on the average.
 
-4. Building Class 
+4. <b>Building Class</b></br>
 Buildings that were under PUB (Planned Unit Developments) or Duplex (i.e. Residential building constructed on two floors) tended to have lower sale prices.
 
-5. Sale Type
+5. <b>Sale Type</b></br>
 Sales of new houses can command a premium of about $28,380. If it were under a 15% down payment regular terms contract, it would cost $42,320 more. You might find some bargain from court officer deep/estate (e.g. bankruptcy) but realistically it should be about $10,400 less than the market price, not much.
 
-6. Quality of basement
+6. <b>Quality of basement</b></br>
 The cost of renovating and maintaining a basement is likely to cost more and for unfinished basement, it would certainly incurred additional cost for the home buyer. Anything of low quality basement would easily reduce the price by 10 - 20 thousand dollars. If you find a house without basement, that would save you about $39,240.
 
-7. Proximity to main road or railroad
+7. <b>Proximity to main road or railroad</b></br>
 People generally prefer not to stay the main road or railroad as there be more noise. That could easily push back the price by 10 - 20 thousand dollars. Likewise, if the house is near a park or greeneries, it would likely to cost $11,180 more.
 
-8. Others
+8. <b>Others</b></br>
 
 There are other factors such as the roof style & material, and general shape of the property, but they have less impact on the overall saleprice.
 
